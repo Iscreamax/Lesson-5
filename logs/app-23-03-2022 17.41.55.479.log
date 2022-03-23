@@ -1,0 +1,8 @@
+2022-03-23 17:41:57,817 INFO m.j.MobileStore [main] Created IMEI
+2022-03-23 17:41:57,823 INFO m.j.MobileStore [main] Created IMEI
+2022-03-23 17:41:57,835 INFO m.j.LoggerRunner [main] LOGGER INFO
+2022-03-23 17:41:57,836 DEBUG m.j.LoggerRunner [main] LOGGER DEBUG
+2022-03-23 17:41:57,836 ERROR m.j.LoggerRunner [main] LOGGER ERROR
+2022-03-23 17:41:57,838 DEBUG m.j.Iphone [main] java.io.IOException
+2022-03-23 17:41:57,839 INFO m.j.Iphone [main] Handling exception
+2022-03-23 17:41:57,841 DEBUG m.j.Discount [main] main.java.exception.PriceException: Price is incorrect!

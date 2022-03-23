@@ -1,0 +1,7 @@
+2022-03-23 17:34:42,585 INFO m.j.MobileStore [main] Created IMEI
+2022-03-23 17:34:42,600 INFO m.j.MobileStore [main] Created IMEI
+2022-03-23 17:34:42,626 INFO m.j.LoggerRunner [main] LOGGER INFO
+2022-03-23 17:34:42,627 DEBUG m.j.LoggerRunner [main] LOGGER DEBUG
+2022-03-23 17:34:42,628 ERROR m.j.LoggerRunner [main] LOGGER ERROR
+2022-03-23 17:34:42,629 INFO m.j.Iphone [main] Handling exception
+2022-03-23 17:34:42,631 INFO m.j.Iphone [main] java.io.IOException

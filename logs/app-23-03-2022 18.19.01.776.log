@@ -1,0 +1,9 @@
+2022-03-23 18:19:04,687 INFO m.j.MobileStore [main] Created IMEI
+2022-03-23 18:19:04,694 INFO m.j.MobileStore [main] Created IMEI
+2022-03-23 18:19:04,713 INFO m.j.LoggerRunner [main] LOGGER INFO
+2022-03-23 18:19:04,714 DEBUG m.j.LoggerRunner [main] LOGGER DEBUG
+2022-03-23 18:19:04,714 ERROR m.j.LoggerRunner [main] LOGGER ERROR
+2022-03-23 18:19:04,715 DEBUG m.j.Iphone [main] java.io.IOException
+2022-03-23 18:19:04,717 INFO m.j.Iphone [main] Handling exception
+2022-03-23 18:19:04,718 DEBUG m.j.Discount [main] main.java.exception.PriceException: String is incorrect!
+2022-03-23 18:19:04,719 DEBUG m.j.Discount [main] java.lang.NumberFormatException: For input string: "g"

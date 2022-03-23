@@ -1,0 +1,5 @@
+2022-03-23 01:27:20,363 INFO m.j.MobileStore [main] Created IMEI
+2022-03-23 01:27:20,367 INFO m.j.MobileStore [main] Created IMEI
+2022-03-23 01:27:20,374 INFO m.j.LoggerRunner [main] LOGGER INFO
+2022-03-23 01:27:20,375 DEBUG m.j.LoggerRunner [main] LOGGER DEBUG
+2022-03-23 01:27:20,375 ERROR m.j.LoggerRunner [main] LOGGER ERROR
