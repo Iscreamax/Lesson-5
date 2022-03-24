@@ -117,9 +117,12 @@ public class Main {
         iStore.buying(iphoneMini, thirdClient);
         //attempt to set inch = 0;
         Display.createdInch();
+        //attempt to set memory = 63;
+        Memory.createdMemory();
         //attempt to enter incorrect data
         //attempt to set price = 0;
         Discount discount = new Discount();
+
 
         try {
             discount.getDiscount("g");

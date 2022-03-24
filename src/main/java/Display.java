@@ -52,8 +52,7 @@ public class Display {
 
         }
         this.inch = inch;
-        System.err.println("Inch is incorrect!");
-        LOGGER.info("Inch is incorrect");
+
     }
 
     @Override

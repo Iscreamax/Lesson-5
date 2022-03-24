@@ -1,0 +1,15 @@
+2022-03-24 08:57:18,230 INFO m.j.MobileStore [main] Created IMEI
+2022-03-24 08:57:18,233 INFO m.j.MobileStore [main] Created IMEI
+2022-03-24 08:57:18,234 DEBUG m.j.MobileStore [main] main.java.exception.BuyAgeException: You're too younger to buy!
+2022-03-24 08:57:18,261 INFO m.j.MobileStore [main] Created IMEI
+2022-03-24 08:57:18,262 INFO m.j.LoggerRunner [main] LOGGER INFO
+2022-03-24 08:57:18,262 DEBUG m.j.LoggerRunner [main] LOGGER DEBUG
+2022-03-24 08:57:18,262 ERROR m.j.LoggerRunner [main] LOGGER ERROR
+2022-03-24 08:57:18,263 DEBUG m.j.Iphone [main] java.io.IOException
+2022-03-24 08:57:18,265 INFO m.j.Iphone [main] The message is empty
+2022-03-24 08:57:18,265 DEBUG m.j.MobileStore [main] main.java.exception.BuyAgeException: You're too younger to buy!
+2022-03-24 08:57:18,299 DEBUG m.j.Display [main] main.java.exception.InchException: Inch is incorrect
+2022-03-24 08:57:18,300 DEBUG m.j.Memory [main] main.java.exception.MemoryException: The memory is incorrect
+2022-03-24 08:57:18,302 DEBUG m.j.Memory [main] main.java.exception.MemoryException: The memory is incorrect
+2022-03-24 08:57:18,302 DEBUG m.j.Discount [main] main.java.exception.PriceException: String is incorrect!
+2022-03-24 08:57:18,303 DEBUG m.j.Discount [main] java.lang.NumberFormatException: For input string: "g"
